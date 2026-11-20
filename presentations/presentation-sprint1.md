@@ -10,9 +10,12 @@ footer: "Encadrant : ESSARRAJ Fouad | Solicode Tanger"
 # Restitution du Sprint 1
 ### Cadrage, Environnement IA et Consultation d'un Article
 
-- **Apprenant** : Apprenant Solicode
+- **Apprenant** : Asaas Soukayna
 - **Encadrant** : ESSARRAJ Fouad
 - **Établissement** : Solicode Tanger
-- **Domaine** : Développement Web
+- **Domaine** : Développement Mobile
 - **Compétence** : Initialisation, Cadrage Scrum et Architecture 2 couches
 - **Date** : 2026-11-18
+---
+
+

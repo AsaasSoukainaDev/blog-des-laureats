@@ -10,7 +10,7 @@ footer: "Encadrant : ESSARRAJ Fouad | Solicode Tanger"
 # Blog des Lauréats
 ### Présentation Générale du Projet
 
-- **Apprenant** : Apprenant Solicode
+- **Apprenant** : Asaas soukayna
 - **Encadrant** : ESSARRAJ Fouad
 - **Établissement** : Solicode Tanger
 - **Domaine** : Développement Web
