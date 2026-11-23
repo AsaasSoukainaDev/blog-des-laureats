@@ -1,0 +1,66 @@
+
+# ==========================================
+# Windows
+# ==========================================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ==========================================
+# macOS
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ==========================================
+# IDE et éditeurs
+# ==========================================
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# PHP / Composer
+# ==========================================
+/vendor/
+composer.phar
+
+# ==========================================
+# Laravel
+# ==========================================
+.env
+.env.*
+!.env.example
+.phpunit.cache/
+.phpunit.result.cache
+/storage/*.key
+/bootstrap/cache/*.php
+/public/build/
+/public/hot
+
+# ==========================================
+# Node.js / npm
+# ==========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ==========================================
+# Logs et fichiers temporaires
+# ==========================================
+*.log
+*.tmp
+*.temp
+*.bak
+
+# ==========================================
+# Couverture de tests
+# ==========================================
+/coverage/
