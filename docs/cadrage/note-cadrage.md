@@ -13,13 +13,13 @@ Elle permettra de centraliser les témoignages, les expériences et les réalisa
 
 ## 2. Objectif Stratégique SMART
 
-Concevoir et développer une plateforme web responsive permettant aux lauréats de partager leurs expériences professionnelles, aux visiteurs de consulter les articles et les profils, et aux administrateurs de gérer et modérer les publications.
+Concevoir et développer une plateforme web responsive permettant aux lauréats de partager leurs expériences professionnelles, aux visiteurs de consulter les articles et les profils, et aux administrateurs de gérer les publications.
 
-- **Spécifique :** proposer des espaces de consultation, de contribution et d'administration.
-- **Mesurable :** valider les fonctionnalités à travers des tests et des critères d'acceptation.
-- **Atteignable :** organiser le développement en sprints Scrum.
-- **Réaliste :** utiliser Laravel, MySQL, Blade, Tailwind CSS, Preline UI et Alpine.js.
-- **Temporel :** livrer le MVP à la fin du cycle de développement prévu.
+- **Spécifique (S) :** proposer des espaces de consultation, de contribution et d'administration.
+- **Mesurable (M) :** valider les fonctionnalités à travers des tests et des critères d'acceptation définis dans le Product Backlog.
+- **Atteignable (A) :** organiser le développement en sprints Scrum.
+- **Réaliste (R) :** utiliser Laravel, MySQL, Blade, Tailwind CSS, Preline UI et Alpine.js.
+- **Temporel (T) :** livrer un MVP fonctionnel à la fin du cycle de développement.
 
 ## 3. Périmètre du Projet
 
